@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "playground", "playground\pl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelXMLConverter", "ExcelXMLConverter\ExcelXMLConverter.csproj", "{5B9544AD-2CD8-467D-ABB0-59470161B529}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuSolver", "SudokuSolver\SudokuSolver.csproj", "{A1A87712-5C1C-46A6-A068-C282981601A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5B9544AD-2CD8-467D-ABB0-59470161B529}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B9544AD-2CD8-467D-ABB0-59470161B529}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B9544AD-2CD8-467D-ABB0-59470161B529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A87712-5C1C-46A6-A068-C282981601A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A87712-5C1C-46A6-A068-C282981601A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A87712-5C1C-46A6-A068-C282981601A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A87712-5C1C-46A6-A068-C282981601A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
